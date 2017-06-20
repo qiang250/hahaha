@@ -1,1 +1,7 @@
+/controller/
 /db.properties
+/mybatis/
+/pojo/
+/service/
+/spring/
+/mapper/
